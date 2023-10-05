@@ -1,7 +1,7 @@
 .cart {
   width: 100%;
   max-width: 330px;
-  background-color: white;
+  background-color: #292929;
   height: 100vh;
   position: fixed;
   top: 0;
@@ -20,10 +20,11 @@
 }
 
 .cart-resume {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   font-weight: 500;
   padding: 35px 0 15px;
-  border-top: 1px solid #ddd;
+  border-top: 1px solid #474747bd;
+  color: whitesmoke;
 }
 
 .cart-items .cart-item:last-child {
@@ -32,4 +33,12 @@
 
 .cart--active {
   transform: translate(0, 0);
+}
+.total-price {
+  color: white;
+  position: relative;
+  display: flex;
+  padding-top: 10px;
+  border-bottom: none;
+  padding-bottom: 5px;
 }

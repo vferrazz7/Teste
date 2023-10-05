@@ -3,6 +3,7 @@
   margin: 200px auto 0;
   animation: spin 1s linear infinite;
   width: 100%;
+  color: whitesmoke;
 }
 
 @keyframes spin {
