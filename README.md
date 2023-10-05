@@ -63,6 +63,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+### Figma 
+
+https://www.figma.com/file/t8BNWUS7gFhPBo4tStldX1/Untitled?type=design&node-id=0%3A1&mode=design&t=wWcVP6BbCUhYCq3b-1
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
