@@ -42,3 +42,18 @@
   border-bottom: none;
   padding-bottom: 5px;
 }
+
+.finalizar-compra {
+  display: flex;
+  justify-content: center;
+  background-color: #0000000a;
+  text-decoration: none;
+  border-radius: 10px;
+  border-style: double;
+  border-color: #484848;
+  width: 100%;
+  color: #b0b0b0;
+  font-size: 17px;
+  padding: 20px;
+  cursor: pointer;
+}

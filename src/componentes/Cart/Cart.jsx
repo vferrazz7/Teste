@@ -18,6 +18,7 @@ function Cart() {
       </div>
       <h4 className="total-price">Valor total:</h4>
       <div className="cart-resume">{formatCurrency(totalPrice, 'BRL')}</div>
+      <a href=""><button className="finalizar-compra">Finalizar compra</button></a>
     </section>
   );
 }

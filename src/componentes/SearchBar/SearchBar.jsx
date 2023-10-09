@@ -23,10 +23,10 @@ function SearchBar() {
   return(
     <><div className="menu">
       <nav className="menu">
-        <a href="#" className="menu">Home</a>
+        <a href="/" className="menu">Home</a>
       </nav>
       <nav className="menu">
-        <a href="#" className="menu">Contact Us</a>
+        <a href="/" className="menu">Contact Us</a>
       </nav>
     </div><form className="search-bar" onSubmit={handleSearch}>
       <input
